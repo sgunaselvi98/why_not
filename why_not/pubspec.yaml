@@ -38,6 +38,9 @@ dependencies:
   flutter_riverpod: ^2.1.1
   google_fonts: ^3.0.1
   fl_country_code_picker: ^0.1.6+1
+  circle_list: ^1.0.5
+  dotted_border: ^2.0.0+3
+  fluentui_system_icons: ^1.1.209
 
 dev_dependencies:
   flutter_test:
